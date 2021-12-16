@@ -1,0 +1,17 @@
+* {
+    margin: auto;
+}
+
+.content {
+    text-indent: 100px;
+    font-size: large;
+    letter-spacing: 4px;
+}
+
+.cont {
+    letter-spacing: -3px;
+}
+
+.content p {
+    white-space: nowrap;
+}
